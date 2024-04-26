@@ -3,7 +3,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Utkarsh1504/bookie
    ```
 
 2. Install dependencies:
